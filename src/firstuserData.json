@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Sample Konfabulator Widget",
+      "name": "name 3",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "title": "Sample Konfabulator Widget",
+      "name": "name 2",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "title": "Sample Konfabulator Widget",
+      "name": "name 1",
+      "width": 500,
+      "height": 600
+    }
+  ]
+}
